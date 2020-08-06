@@ -1,3 +1,11 @@
 WHaddup
 this is even more important than the document itself
+<<<<<<< HEAD
+hello team 8
+=======
 Is it really tho?
+<<<<<<< HEAD
+>>>>>>> 418dc76f207ee386b61b4ea4bd9a8170fa042b51
+=======
+This has been updated to new coorporate standards
+>>>>>>> 53e42615a4648b3b616ade067a2b0f274f8a76ee
